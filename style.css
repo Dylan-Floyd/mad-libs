@@ -1,7 +1,7 @@
 /* add home page styles here */
 
 .hidden {
-   visibility: hidden;
+    visibility: hidden;
    margin: 10px;
    font-family: 'Bebas Neue', cursive;
    font-size: 2rem;
@@ -39,6 +39,7 @@ body {
     background-image: url("patrickstewart.jpeg");
     display: flex;
     background-size: 50% 50%;
+    /* grid-template-columns: 1fr; */
     flex-direction: column;
     justify-content: center;
     align-items: center;
